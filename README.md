@@ -70,6 +70,8 @@ The excel data file used is uploaded. Its description goes as :
 ![Diff](https://github.com/snigdha-a20/Average-Sales-Analysis/assets/125685896/87e9f686-24d3-42ab-9678-a8211c1abe76)
 
 - Step 13 : To analyze the sales of different products one or all at a time a slicer was added for product seperation.
+
+
 ![Product Slicer](https://github.com/snigdha-a20/Average-Sales-Analysis/assets/125685896/ae07527c-c6c8-46a1-9d9e-c55b6078c0da)
 
 
