@@ -29,6 +29,8 @@ The excel data file used is uploaded. Its description goes as :
 
         Initial_2 = DISTINCT('Data'[Date2])
   Snap of the tables created should look like :
+
+  
   ![Initial_1 Table](https://github.com/snigdha-a20/Power-BI/assets/125685896/77846ffc-dbb8-4aa9-a6e0-a04ac0220754)
  
 - Step 5 : For calculating the Total Amounts for the time frames we create two measures using the DAX expressions below 
